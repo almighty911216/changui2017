@@ -1,0 +1,8 @@
+{
+  "name": "munseonguk-home",
+  "description": "cahngui project in pnu 2017",
+  "repository": "https://github.com/almighty911216/changui2017",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
